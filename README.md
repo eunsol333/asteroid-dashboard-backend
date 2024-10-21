@@ -4,7 +4,7 @@
 
 The **Asteroid Dashboard** is a project built using **Node**, **TypeScript**, and **React**. This project consists of two parts:
 
-1. `asteroids-dashboard` (frontend)
+1. `asteroids-dashboard-frontend` (frontend)
 2. `asteroids-dashboard-backend` (backend)
 
 ## Getting Started
@@ -28,10 +28,10 @@ The **Asteroid Dashboard** is a project built using **Node**, **TypeScript**, an
      ```
    - The server will be running on **port 3000**.
 
-### asteroids-dashboard (Frontend)
+### asteroids-dashboard-frontend (Frontend)
 
 1. **Install dependencies**:
-   - Navigate to the `asteroids-dashboard` directory and run:
+   - Navigate to the `asteroids-dashboard-frontend` directory and run:
      ```bash
      npm install
      ```
